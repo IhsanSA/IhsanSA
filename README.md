@@ -12,8 +12,10 @@ I also enjoy using LaTeX and working with PLC systems.
 I’m also comfortable with general tools like Microsoft Teams, Excel, Word, and Visual Studio Code, so I can stay organized, collaborate easily, and get things done efficiently.
 
 #⚡ Fun fact: 
+* I love anything related to dragons
 
-*I love anything related to dragons
-*I enjoy listening to NCS and Nightcore music
-*I play Clash of Clans, currently in Legend League III(Top 1%), and I love using the Hydra army
-*My hobbies include jogging, watching anime, and bodybuilding
+* I enjoy listening to NCS and Nightcore music
+
+* I play Clash of Clans, currently in Legend League III(Top 1%), and I love using the Hydra army
+
+* My hobbies include jogging, watching anime, and bodybuilding
