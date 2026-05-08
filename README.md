@@ -10,7 +10,7 @@ I’m comfortable working with a range of engineering tools like MATLAB and Simu
 I also enjoy using LaTeX and working with PLC systems.
 
 I’m also comfortable with general tools like Microsoft Teams, Excel, Word, and Visual Studio Code, so I can stay organized, collaborate easily, and get things done efficiently.
-
+Trying to learning Reinforcement learning tought
 #⚡ Fun fact: 
 * I love anything related to dragons
 
