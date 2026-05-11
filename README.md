@@ -19,4 +19,4 @@ Trying to learning Reinforcement learning tought
 
 * I play Clash of Clans, currently in Legend League III(Top 1%), and I love using the Hydra army
 
-* My hobbies include jogging, watching anime, and bodybuilding
+* My hobbies include jogging,and watching anime
